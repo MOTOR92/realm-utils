@@ -1,5 +1,5 @@
 {
-    "name": "realm-utils",
+    "name": "realm-utils-motor",
     "version": "1.0.8",
     "description": "",
     "typings": "./dist/typings/index.d.ts",
