@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/realm-js/realm-utils.git"
+        "url": "git+https://github.com/MOTOR92/realm-utils-motor.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/realm-js/realm-utils/issues"
+        "url": "https://github.com//MOTOR92/realm-utils-motor/issues"
     },
-    "homepage": "https://github.com/realm-js/realm-utils#readme",
+    "homepage": "https://github.com/MOTOR92/realm-utils-motor#readme",
     "dependencies": {
         "app-root-path": "^1.3.0",
         "mkdirp": "^0.5.1"
