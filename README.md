@@ -10,7 +10,7 @@ npm install realm-utils-motor --save
 ```
 
 ```js
-import {each, chain, Chainable, utils} from 'realm-utils'; // typescript
+import {each, chain, Chainable, utils} from 'realm-utils-motor'; // typescript
 const rutils = require('realm-utils-motor'); // es6
 ```
 ### Each
