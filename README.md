@@ -6,7 +6,7 @@ Utilities live in this repository, apart from realm-js library. Typings included
 
 
 ```bash
-npm install realm-utils --save
+npm install realm-utils-motor --save
 ```
 
 ```js
