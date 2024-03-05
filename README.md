@@ -11,7 +11,7 @@ npm install realm-utils-motor --save
 
 ```js
 import {each, chain, Chainable, utils} from 'realm-utils'; // typescript
-const rutils = require('realm-utils'); // es6
+const rutils = require('realm-utils-motor'); // es6
 ```
 ### Each
 Iterates a list of promises (objects) consecutively. Respects promises if provided
